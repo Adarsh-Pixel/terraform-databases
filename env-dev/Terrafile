@@ -1,3 +1,7 @@
 docdb:
     source:  "https://github.com/Adarsh-Pixel/tf-module-docdb.git"
     version: "main"
+
+redis:
+    source:  "https://github.com/Adarsh-Pixel/tf-module-redis.git"
+    version: "main"
