@@ -8,3 +8,4 @@ variable "MYSQL_INSTANCE_TYPE" {}
 #DOCDB Variables
 
 variable "DOCDB_INSTANCE_TYPE" {}
+variable "DOCDB_INSTANCE_COUNT" {}
