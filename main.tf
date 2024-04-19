@@ -1,6 +1,7 @@
 module "docdb" {
     source              = "./vendor/modules/docdb"
     ENV                 = var.ENV
+    DOCDB_INSTANCE_TYPE = var.DOCDB_INSTANCE_TYPE
 
 }
 
