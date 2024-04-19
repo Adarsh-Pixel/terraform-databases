@@ -9,3 +9,9 @@ variable "MYSQL_INSTANCE_TYPE" {}
 
 variable "DOCDB_INSTANCE_TYPE" {}
 variable "DOCDB_INSTANCE_COUNT" {}
+
+#REDIS variables
+
+variable "REDIS_ENGINE_VERSION" {}
+variable "REDIS_INSTANCE_TYPE" {}
+variable "REDIS_PORT" {}
